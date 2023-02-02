@@ -5,7 +5,7 @@ Este repositório tem como finalidade compartilhar e armazenar todos os arquivos
 
 Nesse caso, todo o código é proveniente do curso
 
-> Javascript -  Javascript na Web - Armazenando dados no navegador
+> Javascript na Web - Armazenando dados no navegador
 
 Que por sua vez, faz parte da Alura.
 
